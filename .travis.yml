@@ -3,6 +3,8 @@ sudo: false
 node_js:
   - "6"
   - "8"
+  - "10"
+  - "12"
   - "node"
 notifications:
   irc: "irc.freenode.org#socket.io"
